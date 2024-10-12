@@ -1,0 +1,6528 @@
+{
+  "changes": [
+    {
+      "file_path": "README.md",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "README.md",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "README.md",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "README.md",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240515133832_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/create-expense.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/update-expense.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/entities/expense.entity.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.module.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": ".gitignore",
+      "action": "Modified"
+    },
+    {
+      "file_path": "README.md",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/layout/layout.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/logout/logout.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Deleted"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240327115300_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155317_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155700_cal/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240403121008_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240407064741_init/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240403121008_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Deleted"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155317_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155700_cal/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/view-user.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240226070751_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240310110043_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240327115300_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".vs/VSWorkspaceState.json",
+      "action": "Added"
+    },
+    {
+      "file_path": ".vs/hms/v17/DocumentLayout.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "justfile",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240310110043_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/transporter.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/loginPage.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/dto/create-calendar.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/dto/update-calendar.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/entities/calendar.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240222140725_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085125_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085312_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240226070751_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/login.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/view-user.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/local-auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.enum.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/create-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/update-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/entities/expense.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/loginPage.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/RequireAuth/RequireAuth.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/SecurePage/SecurePage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/layout/layout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/logout/logout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-context.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-data-transfer.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240218062908_init/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240222140725_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085125_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085312_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/deleteTeamModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/deleteTeamModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/deleteAppointmentModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.module.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.spec.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/index.html",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/entities/appointment.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/index.html",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/nx-welcome.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/theme.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/main.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.app.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/vite.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/cypress.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/e2e/app.cy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/fixtures/example.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/app.po.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/commands.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/e2e.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240127132513_2/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240128063611_auth/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240206041106_3/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240218062908_init/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/header/head.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/transition.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240206041106_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/models/ILogin.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/entities/auth.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.strategy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/constant.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/src/api/api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/button/Button.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/button/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/head.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240127132513_2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240128063611_auth/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/migration_lock.toml",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "tsconfig.base.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/styles.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/index.html",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/models/ILogin.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".vscode/extensions.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/webpack.config.js",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/support/global-setup.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/support/global-teardown.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/support/test-setup.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "jest.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "jest.preset.js",
+      "action": "Added"
+    },
+    {
+      "file_path": "nx.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/models/ILogin.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/entities/auth.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.strategy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/constant.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240128063611_auth/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/appStore.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/BarChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/GeoChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/PieChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/VBarChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/AccordionDash.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/DashAccordion.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Navbar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Sidenav.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Analytics.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Home.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Products.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Settings.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/AddForm.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/EditForm.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/ProductList.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Account.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/List.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Password.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Personal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Profile.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240127133111_2/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/appStore.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/BarChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/GeoChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/PieChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/VBarChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/AccordionDash.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/DashAccordion.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Sidenav.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Analytics.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Products.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Settings.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/AddForm.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/EditForm.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/ProductList.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Account.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/List.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Password.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Personal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Profile.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240127132513_2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240127133111_2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/src/api/api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/button/Button.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/button/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/migration_lock.toml",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "tsconfig.base.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/header/head.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/src/api/api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/button/Button.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/button/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/migration_lock.toml",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "tsconfig.base.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/src/api/api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/migration_lock.toml",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "tsconfig.base.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/button/Button.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/button/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240127133111_2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240127132513_2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/appStore.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/BarChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/GeoChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/PieChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/VBarChart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/AccordionDash.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/DashAccordion.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Sidenav.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Analytics.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Products.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Settings.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/AddForm.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/EditForm.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/ProductList.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Account.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/List.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Password.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Personal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Profile.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240123092041_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240127132513_2/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240128063611_auth/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240206041106_3/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240207041921_test1/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240207042322_test2/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240212044835_3/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240218061128_init/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/models/ILogin.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240206041106_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240208110150_3/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240212044835_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/entities/appointment.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/transition.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240208110150_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/index.html",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/nx-welcome.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/theme.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/main.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.app.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/vite.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/cypress.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/e2e/app.cy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/fixtures/example.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/app.po.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/commands.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/e2e.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240207041921_test1/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240207042322_test2/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/appStore.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Analytics.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Products.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/AddForm.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/EditForm.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/ProductList.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Account.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/List.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.module.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.spec.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/theme.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboardTheme.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/theme.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/index.html",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboard/dashboard.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/dashboardTheme.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/nx-welcome.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/main.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.app.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/vite.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/cypress.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/e2e/app.cy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/fixtures/example.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/app.po.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/commands.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/e2e.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/appStore.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/BarChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/GeoChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/PieChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/charts/VBarChart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/AccordionDash.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/DashAccordion.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Navbar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/components/Sidenav.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Analytics.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Home.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Products.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/pages/Settings.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/AddForm.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/EditForm.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/products/ProductList.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Account.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/List.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Password.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Personal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/dashboard/settings/Profile.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/transition.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/entities/appointment.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/entities/auth.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.strategy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/constant.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240127133111_2/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240128063611_auth/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240208110150_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240208110150_3/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/entities/appointment.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/login.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/view-user.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/local-auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.enum.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/loginPage.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/RequireAuth/RequireAuth.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/SecurePage/SecurePage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/layout/layout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/logout/logout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-context.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-data-transfer.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240218062908_init/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240220062553_expense/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240222140725_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085125_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240225085312_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/deleteAppointmentModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.module.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.spec.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/index.html",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.enum.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/create-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/update-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/entities/expense.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/contacts/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240220062553_expense/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/loginPage.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Added"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240226070751_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240310110043_/migration.sql",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "prisma/migrations/20240318043953_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": ".env",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".vs/VSWorkspaceState.json",
+      "action": "Added"
+    },
+    {
+      "file_path": ".vs/hms/v17/DocumentLayout.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/transporter.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "justfile",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240310110043_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "README.md",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".gitignore",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/logout/logout.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/layout/layout.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": ".env",
+      "action": "Added"
+    },
+    {
+      "file_path": ".vs/VSWorkspaceState.json",
+      "action": "Added"
+    },
+    {
+      "file_path": ".vs/hms/v17/DocumentLayout.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.controller.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.module.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/app.service.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/appointment.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/dto/create-appointment.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/appointment/entities/appointment.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/auth.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/create-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/login.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/update-auth.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/dto/view-user.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/entities/auth.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/jwt.strategy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/local-auth.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.enum.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/auth/role.guard.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/calendar.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/dto/create-calendar.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/dto/update-calendar.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/calendar/entities/calendar.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/create-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/dto/update-expense.dto.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/entities/expense.entity.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/expenses/expenses.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/lchart/lchart.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/pie/pie.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.controller.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/users/users.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/constant.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/app/utils/transporter.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api/src/main.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.app.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/.eslintrc.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/jest.config.ts",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/project.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/src/api/api.spec.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/api-e2e/src/app-api/app-api.spec.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/api-e2e/tsconfig.spec.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/dashboard/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/index.html",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/app.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/LoginPage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/LoginPage/loginPage.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/RequireAuth/RequireAuth.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/SecurePage/SecurePage.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/bar-chart/bar-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/header/header.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/layout/layout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/line-chart/line-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/logout/logout.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/pie-chart/pie-chart.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/progress-circle/progress-circle.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/components/stat-box/stat-box.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-context.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/context/user-data-transfer.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/sidebar/sidebar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/global/topbar/topbar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/nx-welcome.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/addappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/contacts.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/deleteAppointmentModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/appointmentTable/editappointmentmodal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/bar/bar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendar.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/calendar/calendarModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/dashboard/dashboard.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/faq/faq.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/invoices/invoices.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/line/line.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/pie/pie.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/deleteTeamModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/editTeamModal.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/team/team.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/pages/user-form/user-form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/app/theme.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/data/Mockdata.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/main.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/src/styles.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.app.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/tsconfig.spec.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard/vite.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/.eslintrc.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/cypress.config.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/project.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/e2e/app.cy.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/fixtures/example.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/app.po.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/commands.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/src/support/e2e.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/dashboard-e2e/tsconfig.json",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/index.html",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.module.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.spec.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/ai-bot/ai-bot.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/button/Button.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/button/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/form/Form.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/form/form.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/head.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/header/header.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/models/ILogin.ts",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/style.sass",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/booking/Booking.tsx",
+      "action": "Deleted"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/Contact.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/contact/contact.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/service/service.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/transition.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/styles.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "justfile",
+      "action": "Added"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "prisma/migrations/20240327115300_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155317_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240327155700_cal/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/20240403121008_/migration.sql",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/migrations/migration_lock.toml",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.module.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/prisma.service.ts",
+      "action": "Added"
+    },
+    {
+      "file_path": "prisma/schema.prisma",
+      "action": "Added"
+    },
+    {
+      "file_path": "tsconfig.base.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/index.html",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/app.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/app.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/card/Card.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/footer/Footer.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.css",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/navbar/Navbar.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/about/About.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.css",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/home/Home.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "apps/web/src/app/pages/login/login.tsx",
+      "action": "Added"
+    },
+    {
+      "file_path": "apps/web/src/main.tsx",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package-lock.json",
+      "action": "Modified"
+    },
+    {
+      "file_path": "package.json",
+      "action": "Modified"
+    }
+  ]
+}
